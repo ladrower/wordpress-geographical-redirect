@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: Ladrower
-Donate link: http://vnuki.org/library/
 Tags: geo-redirect, multilanguage, multidomain
 Requires at least: 3.0
 Tested up to: 3.5.1
